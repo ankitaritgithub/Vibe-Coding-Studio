@@ -114,31 +114,6 @@ frontend/
 README.md
 ```
 
-Project Section (Profile Copy)
-
-Project Title
-Vibe Coding Studio – AI-Directed Prototype Generator
-
-Tag this project with your employment/education
-UG – Computers
-
-Client
-Personal Project
-
-Project Status
-Completed (Personal Project)
-
-
-Details of Project (under 1000 chars)
-Designed and developed an AI-powered "Vibe Coding" platform that enables users to generate full-stack application prototypes using plain English prompts. Built a scalable architecture with FastAPI (backend), React + TypeScript (frontend), and local Llama 3.2 via Ollama for on-device inference. Integrated structured JSON generation to produce code files and project trees, enabled iterative refinement, code preview (Monaco Editor), and local file writing to materialize results. This project demonstrates applied skills in LLM integration, system design, and building AI copilots for developer workflows.
-
-
-
-Role Description 
-Led end-to-end design and development of an AI-powered prototype generator, integrating a local LLM with backend services, React frontend, and robust UX to create a practical AI coding assistant.
-
-Skills Used 
-React, TypeScript, FastAPI, PostgreSQL , Redis, Docker, Vite, Monaco, Ollama (Llama 3.2), LangChain , GitHub Actions (CI), AWS S3 .
 
 
 
